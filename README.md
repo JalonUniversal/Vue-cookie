@@ -5,7 +5,7 @@
 npm install vue-cookies -S
 
 ## In your main.js / index.js
-const Vue = require('vue');
+const Vue = require('vue'); <br/>
 const vueCookie = require('vue-cookie');
 // To use this plugin
 Vue.use(vueCookie);
